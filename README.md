@@ -6,7 +6,7 @@
 
 Game link: https://otaviolage.github.io/LookAtMeGame/
 
-The **Look At Me** was a personal project, with the knowledge adquired with **Imersão GameDev Alura**, witch was a one-week course, with the objective of theaching and practicing JavaScript, creating a game.
+The **Look At Me** was a personal project, using the knowledge adquired with **Imersão GameDev Alura**, witch was a one-week course, with the objective of theaching and practicing JavaScript, developing a game.
 
 
 The game is based on a **Rick and Morty**'s episode: **Meeseeks and Destroy**, where Jerry, tries to learn golf, with Mr. Meeseeks.
