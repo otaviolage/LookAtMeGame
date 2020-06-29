@@ -1,6 +1,6 @@
 {      
 "configuracoes": {
-  "vidaMaxima": 5,
-  "vidaInicial": 5
+  "vidaMaxima": 3,
+  "vidaInicial": 3
   }
 }
