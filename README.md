@@ -12,17 +12,16 @@ The **Look At Me** was a personal project, using the knowledge adquired with **I
 The game is based on a **Rick and Morty**'s episode: **Meeseeks and Destroy**, where Jerry, tries to learn golf, with Mr. Meeseeks.
 
 
-# Libraries and technologies used:
+# Libraries and technologies used
 - HTML;
 - CSS;
 - JavaScript;
 - P5 JS.
 
-
-# Data:
+# Data
 All the pictures and animations were made by otaviolage
 
-# Song and Audios:
+# Song and Audios
 Mr Meeseeks lines: https://www.101soundboards.com/boards/10721-mr-meeseeks-sounds-rick-and-morty-season-1
 Main Song: https://freemusicarchive.org/genre/Funk?sort=track_date_published&d=1&page=6
 
